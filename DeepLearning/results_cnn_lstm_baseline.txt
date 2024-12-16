@@ -1,0 +1,13 @@
+Run number 0 with 0.01
+Run number 0 with 0.01
+Run number 0 with 0.01
+Run number 1 with 0.001
+Run number 0 with 0.01
+Run number 1 with 0.001
+Run number 2 with 0.0001
+Run number 0 with 0.001
+Run number 0 with 0.001
+Run number 0 with 0.001
+Run number 0 with 0.001
+Run number 0 with 0.0001
+Run number 0 with 0.0001

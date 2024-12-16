@@ -1,0 +1,15 @@
+    Product code (SKU): Suppose the SKU for this smartphone is "SM-IP-001," where "SM" represents the product type (smartphone), "IP" represents the subtype (iPhone), and "001" represents the serial number.
+
+    Price setting date (Date): Let's say the price for this smartphone was last set on April 27, 2024.
+
+    Average purchasing cost price of the previous week (PrevAVGCost): During the previous week (April 15 - April 21, 2024), the average cost price of purchasing this smartphone was $500.
+
+    Cost price after deducting the loss of the previous week (PrevAssignedCost): After deducting any losses incurred during the previous week, the cost price of the smartphone is adjusted to $480.
+
+    Average purchasing cost price for the entire week (AVGCost): For the entire week (April 22 - April 28, 2024), the average cost price of purchasing this smartphone was $510.
+
+    Latest day's purchasing cost price (LatestDateCost): On April 28, 2024, the cost price of acquiring this smartphone was $520.
+
+    Product type (Type): As mentioned earlier, the product type is "smartphone."
+
+    This week's set price (GenPrice): Let's say for the current week (April 29 - May 5, 2024), the set price for this smartphone is $700.

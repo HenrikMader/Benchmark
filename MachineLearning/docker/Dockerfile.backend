@@ -1,0 +1,22 @@
+FROM mambaorg/micromamba
+
+USER root
+
+ARG MAMBA_DOCKERFILE_ACTIVATE=1
+
+RUN micromamba install -y \
+    -n base \
+    -c rocketce -c defaults -c conda-forge \
+    python=3.10 \
+    gradio \
+    pandas \
+    numpy \ 
+    matplotlib \
+    flask \
+    scikit-learn \
+    pytorch-cpu \
+    libopenblas 
+
+COPY . .
+
+CMD ["python", "backend.py"]
